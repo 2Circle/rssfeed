@@ -4,8 +4,7 @@
     <title>FreshRSS</title>
     <dateCreated>Wed, 30 Nov 2022 12:30:41</dateCreated>
   </head>
-  <body>
-    <outline text="社交媒体"><outline text="B站_不普通人类实录" type="rss" xmlUrl="https://rsshub.autopower.fun/bilibili/user/dynamic/645711700" htmlUrl="https://space.bilibili.com/645711700" description="https://www.notion.so/B-_-5b669575d05d4e7f81069fd0daf0e8ae"/>
+  <body><outline text="B站_不普通人类实录" type="rss" xmlUrl="https://rsshub.autopower.fun/bilibili/user/dynamic/645711700" htmlUrl="https://space.bilibili.com/645711700" description="https://www.notion.so/B-_-5b669575d05d4e7f81069fd0daf0e8ae"/>
 <outline text="B站_topbook" type="rss" xmlUrl="https://rsshub.autopower.fun/bilibili/user/dynamic/29959830" htmlUrl="https://space.bilibili.com/29959830" description="https://www.notion.so/B-_topbook-2403cb9784034931aa9d0af80a37ceff"/>
 <outline text="无人知晓孟岩 的 bilibili 动态" type="rss" xmlUrl="https://rsshub.feeded.xyz/bilibili/user/dynamic/32703684" htmlUrl="https://space.bilibili.com/32703684/dynamic" description="https://www.notion.so/bilibili-614e626b6e3941a1b20f8e6a6798c082"/>
 <outline text="LunaticMosfet 的
@@ -67,6 +66,6 @@
 <outline text="B站_3Blue1Brown" type="rss" xmlUrl="https://rsshub.feeded.xyz/bilibili/user/dynamic/88461692" htmlUrl="https://space.bilibili.com/88461692" description="https://www.notion.so/B-_3Blue1Brown-8f497de7c01c4f1f83cefcd34c6155ba"/>
 <outline text="HOPICO" type="rss" xmlUrl="https://rsshub.feeded.xyz/bilibili/user/dynamic/261485584" htmlUrl="https://space.bilibili.com/261485584/dynamic" description="https://www.notion.so/HOPICO-3b41127ad47f4e0987a027d7d4362c42"/>
 
-    </outline>
+ 
   </body>
 </opml>
