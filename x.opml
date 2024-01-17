@@ -4,8 +4,7 @@
     <title>FreshRSS</title>
     <dateCreated>Wed, 30 Nov 2022 12:30:41</dateCreated>
   </head>
-  <body>
-    <outline text="社交媒体"><outline text="Twitter @Steam Deck" type="rss" xmlUrl="https://nitter.cz/OnDeck/rss" htmlUrl="https://twitter.com/OnDeck" description="https://www.notion.so/Twitter-Steam-Deck-90efcec928054299a8ac3825ab1fd50a"/>
+  <body><outline text="Twitter @Steam Deck" type="rss" xmlUrl="https://nitter.cz/OnDeck/rss" htmlUrl="https://twitter.com/OnDeck" description="https://www.notion.so/Twitter-Steam-Deck-90efcec928054299a8ac3825ab1fd50a"/>
 <outline text="Twitter
   @BMPI.dev" type="rss" xmlUrl="https://nitter.cz/bmpi11/rss" htmlUrl="https://twitter.com/bmpi11" description="https://www.notion.so/Twitter-BMPI-dev-fa21f9ea655c450e91b381ecb624db17"/>
 <outline text="Twitter @Xbox Game Pass" type="rss" xmlUrl="https://nitter.cz/XboxGamePass/rss" htmlUrl="https://twitter.com/XboxGamePass" description="https://www.notion.so/Twitter-Xbox-Game-Pass-b0919bf4fb1645ac9543e076ddbd960a"/>
@@ -32,6 +31,6 @@
 <outline text="Bear Liu" type="rss" xmlUrl="https://nitter.cz/bearbig/rss" htmlUrl="https://twitter.com/bearbig" description="https://www.notion.so/Bear-Liu-4da4d45c97f64fdab2f2fc9cc5e295f3"/>
 <outline text="@yihong0618" type="rss" xmlUrl="https://nitter.cz/yihong0618/rss" htmlUrl="https://twitter.com/yihong0618" description="https://www.notion.so/yihong0618-8bb7193320ec4b4bb1c32f61c981a3ee"/>
 
-    </outline>
+ 
   </body>
 </opml>
