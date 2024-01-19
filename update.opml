@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 30 Nov 2022 12:30:41</dateCreated>
+  </head>
+  <body><outline text="WhereMyLife 博客" type="rss" xmlUrl="http://blog.wheremylife.cn/rss/" htmlUrl="http://blog.wheremylife.cn/" description="https://www.notion.so/WhereMyLife-57463abd17ce405dac6088604e502109"/>
+<outline text="SWITCH游戏 – 上游世界" type="rss" xmlUrl="https://www.vgter.net/archives/category/switch/feed" htmlUrl="https://www.vgter.net/" description="https://www.notion.so/SWITCH-58802f5c84f94758989faa6b9e59c4eb"/>
+<outline text="OpenAI Blog" type="rss" xmlUrl="https://rsshub.autopower.fun/openai/blog" htmlUrl="https://openai.com/blog" description="https://www.notion.so/OpenAI-Blog-df7cc354b0934eecbd1e182c0fdc60eb"/>
+<outline text="Obsidian Changelog" type="rss" xmlUrl="https://obsidian.md/changelog.xml" htmlUrl="https://obsidian.md/" description="https://www.notion.so/Obsidian-Changelog-2081c054d2ca435a8d9d2414e31c4413"/>
+<outline text="Obsidian Blog" type="rss" xmlUrl="https://obsidian.md/feed.xml" htmlUrl="https://obsidian.md/" description="https://www.notion.so/Obsidian-Blog-6ea2b28dad6643d78a1c151d0d139449"/>
+
+ 
+  </body>
+</opml>
