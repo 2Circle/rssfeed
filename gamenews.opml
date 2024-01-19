@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 30 Nov 2022 12:30:41</dateCreated>
+  </head>
+  <body><outline text="游戏葡萄" type="rss" xmlUrl="https://youxiputao.com/feed" htmlUrl="http://youxiputao.com/" description="https://www.notion.so/707a82af003a4b7abd072eee18dd6b99"/>
+<outline text="游戏_触乐" type="rss" xmlUrl="http://www.chuapp.com/feed" htmlUrl="http://www.chuapp.com/" description="https://www.notion.so/_-726af6a6b46b49388651481cae828690"/>
+<outline text="游戏_机核" type="rss" xmlUrl="https://www.gcores.com/rss" htmlUrl="https://www.gcores.com/" description="https://www.notion.so/_-e889c3dc66a6443cbbd95644fc5e19d4"/>
+<outline text="国游销量榜的微博" type="rss" xmlUrl="http://rsshub.autopower.club/weibo/user/7270656950" htmlUrl="https://weibo.com/7270656950/" description="https://www.notion.so/78be341bbab14ea9a625e3a952f0ad78"/>
+<outline text="IGN中国" type="rss" xmlUrl="https://www.ign.com.cn/feed.xml" htmlUrl="https://www.ign.com.cn/" description="https://www.notion.so/IGN-e9d44109d1cf434da518aa64a3125509"/>
+<outline text="GameRes游资网" type="rss" xmlUrl="https://rsshub.app/gameres/hot" htmlUrl="https://www.gameres.com/" description="https://www.notion.so/GameRes-740236179ac34d4eb33ffb2ca11ced5f"/>
+<outline text="Epic Games Store - Free Games" type="rss" xmlUrl="https://rsshub.autopower.fun/epicgames/freegames/zh-CN" htmlUrl="https://store.epicgames.com/zh-CN/free-games?lang=zh-CN" description="https://www.notion.so/Epic-Games-Store-Free-Games-16c1c9a47b984cd9807f326eb26e5452"/>
+<outline text="猛兽派对的微博" type="rss" xmlUrl="https://rsshub.feeded.xyz/weibo/user/7467641158" htmlUrl="https://weibo.com/7467641158/" description="https://www.notion.so/cbfe77745681447bb6de6cfe28a44add"/>
+
+ 
+  </body>
+</opml>
