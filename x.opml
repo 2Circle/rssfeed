@@ -4,7 +4,8 @@
     <title>FreshRSS</title>
     <dateCreated>Wed, 30 Nov 2022 12:30:41</dateCreated>
   </head>
-  <body><outline text="Twitter @Steam Deck" type="rss" xmlUrl="https://nitter.cz/OnDeck/rss" htmlUrl="https://twitter.com/OnDeck" description="https://www.notion.so/Twitter-Steam-Deck-90efcec928054299a8ac3825ab1fd50a"/>
+  <body><outline text="宝玉" type="rss" xmlUrl="null" htmlUrl="https://twitter.com/dotey" description="https://www.notion.so/aec747df8320480b96bc3f77087f1153"/>
+<outline text="Twitter @Steam Deck" type="rss" xmlUrl="https://nitter.cz/OnDeck/rss" htmlUrl="https://twitter.com/OnDeck" description="https://www.notion.so/Twitter-Steam-Deck-90efcec928054299a8ac3825ab1fd50a"/>
 <outline text="Twitter
   @BMPI.dev" type="rss" xmlUrl="https://nitter.cz/bmpi11/rss" htmlUrl="https://twitter.com/bmpi11" description="https://www.notion.so/Twitter-BMPI-dev-fa21f9ea655c450e91b381ecb624db17"/>
 <outline text="Twitter @Xbox Game Pass" type="rss" xmlUrl="https://nitter.cz/XboxGamePass/rss" htmlUrl="https://twitter.com/XboxGamePass" description="https://www.notion.so/Twitter-Xbox-Game-Pass-b0919bf4fb1645ac9543e076ddbd960a"/>
